@@ -1,4 +1,4 @@
-# 30 Day Power Platform Learning Strategy
+# 30 Day Microsoft Power Platform Learning Strategy
 
 <H2>Week 1: Foundations and Familiarization</H2>
 
