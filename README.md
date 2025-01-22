@@ -88,3 +88,8 @@ Day 30: Review and Build a Final Project
 - Use Microsoft Learn's free resources and guided exercises.
 - Join the Power Platform Community for tips and problem-solving.
 - Consider obtaining the "Microsoft Power Platform Fundamentals" certification for official recognition.
+
+<p align="center">
+  <a href="https://github.com/rlangc/30-Day-Learning.git"><b>Return to 30 Day Learning Strategy</b></a>
+<p align="center">
+  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
